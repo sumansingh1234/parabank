@@ -1,0 +1,8 @@
+i worked on css( custoer secure service)
+the project has thee layer .
+ui layer , inventry layer, detabase.
+i worked on inventry layer . its has funcanility like send mail call the customer . genrate the payment link. i was involved in excute test cases /test script and while testing i fond bug then i used jira .
+. i used selenium tool and maintain  hybrid framework which is combination of datadriven and keyword driven .
+------------------------------------------------------------------------------------------
+Roles and resposbality .
+---------------------
